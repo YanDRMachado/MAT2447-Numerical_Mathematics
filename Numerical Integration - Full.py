@@ -2,7 +2,7 @@
 
 '''trapezoidal, sem numpy nem plotlib'''
 
-import math
+# import math
 
 # f = lambda x: x**2 *math.cos(x) 
 
